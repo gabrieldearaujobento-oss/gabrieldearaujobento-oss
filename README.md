@@ -4,6 +4,7 @@
 
 Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e estou atualmente, cursando Engenahria de Software na UNIPAR.
 <p align="left">
+        <a href="https://www.linkedin.com/in/gabriel-araujo-bento-5b71bb376/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
