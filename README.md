@@ -5,9 +5,9 @@
 Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e estou atualmente, cursando Engenahria de Software na UNIPAR.
 <p align="left">
         <img 
-            alt="youtube subscribers" 
+            alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://www.linkedin.com/in/gabriel-araujo-bento-5b71bb376/color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     <a href="https://www.youtube.com/@larissakich">
