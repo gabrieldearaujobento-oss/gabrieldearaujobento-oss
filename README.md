@@ -1,12 +1,12 @@
 # Gabriel de Araujo Bento
 
-**`Desenvolvedor `**Backend
+**`Desenvolvedor Backend`**
 
 Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e estou atualmente, cursando Engenahria de Software na UNIPAR.
 <p align="left">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
