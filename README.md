@@ -49,6 +49,14 @@ Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e e
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
