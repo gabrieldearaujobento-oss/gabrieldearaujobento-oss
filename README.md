@@ -2,7 +2,7 @@
 
 **`Desenvolvedor `**Backend
 
-Me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio, atualmente, estou cursando Engenahria de Software na UNIPAR.
+Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e estou atualmente, cursando Engenahria de Software na UNIPAR.
 <p align="left">
         <img 
             alt="youtube subscribers" 
