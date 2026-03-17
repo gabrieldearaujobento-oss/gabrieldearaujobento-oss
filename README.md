@@ -18,11 +18,11 @@ Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e e
             src="https://custom-icon-badges.demolab.com/github/followers/gabrieldearaujobento-oss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-        <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <a href="https://github.com/gabrieldearaujobento-oss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/gabrieldearaujobento-oss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
 </p>
