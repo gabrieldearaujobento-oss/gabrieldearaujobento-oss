@@ -10,7 +10,8 @@ Eu me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e e
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/linkedin%20(1).svg/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
-        <a href="https://github.com/Larissakich?tab=followers">
+        <a href="https://github.com/
+gabrieldearaujobento-oss?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
