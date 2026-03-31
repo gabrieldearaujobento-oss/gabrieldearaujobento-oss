@@ -10,13 +10,6 @@ Me chamo Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e esto
             title="Linkedin" 
             src="https://img.shields.io/badge/Linkedin%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-        </a>
-        <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-E61B23.svg?logo=mail/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
 </p>
 
 ---
