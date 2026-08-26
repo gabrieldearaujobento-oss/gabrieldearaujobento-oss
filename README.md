@@ -56,6 +56,14 @@ Meu nome é Gabriel de Araujo Bento, tenho 19 anos. Concluí o ensino médio e e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://stickersdevs.com.br/wp-content/uploads/2022/01/postgreesql-logo-adesivo-sticker.png" 
+/>
 
 <br/>
 <br/>
